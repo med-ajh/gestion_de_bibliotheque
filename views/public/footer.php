@@ -1,0 +1,1 @@
+<h1>Je suis le pied de toutes les pages</h1>
